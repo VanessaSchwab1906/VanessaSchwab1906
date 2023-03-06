@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there I'm Vanessa! ✌🏼
+
+I'm a Berlin based full stack development student at **Spiced Academy** 🌶 
+
+As a former curator, I'll always have a soft spot for interactive exhibitions featuring innovative tech 🖼 👩🏼‍💻💥
+
+I currently keep myself ✨busy✨ with learning 
+
+
+
 
 <!--
 **VanessaSchwab1906/VanessaSchwab1906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
