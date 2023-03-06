@@ -2,9 +2,14 @@
 
 I'm a Berlin based full stack development student at **Spiced Academy** 🌶 
 
+![Alt Text](https://github.com/VanessaSchwab1906/VanessaSchwab1906/blob/main/1FA.gif)
+
 As a former curator, I'll always have a soft spot for interactive exhibitions featuring innovative tech 🖼 👩🏼‍💻💥
 
 I currently keep myself ✨busy✨ with learning 
+
+- [ ] HTML & CSS
+- [ ] Javasvript 
 
 
 
