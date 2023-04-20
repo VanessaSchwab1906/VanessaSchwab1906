@@ -10,6 +10,7 @@ I currently keep myself ✨busy✨ with learning
 
 - [ ] HTML & CSS
 - [ ] Javasvript 
+- [ ] React 
 
 
 
