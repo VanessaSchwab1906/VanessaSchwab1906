@@ -1,6 +1,6 @@
 ### Hi there I'm Vanessa! ✌🏼
 
-I'm a Berlin based Front-End-Developer recently gratuated from **Spiced Academy** 🌶 
+I'm a Berlin based Front-End-Developer recently graduated from **Spiced Academy** 🌶 
 
 ![Alt Text](https://github.com/VanessaSchwab1906/VanessaSchwab1906/blob/main/1FA.gif)
 
