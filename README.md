@@ -6,12 +6,6 @@ I'm a Berlin based full stack development student at **Spiced Academy** 🌶
 
 As a former curator, I'll always have a soft spot for interactive exhibitions featuring innovative tech 🖼 👩🏼‍💻💥
 
-I currently keep myself ✨busy✨ with learning 
-
-- [ ] HTML & CSS
-- [ ] Javasvript 
-- [ ] React 
-
 
 
 
