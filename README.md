@@ -4,7 +4,7 @@ I'm a Berlin based Front-End Developer recently graduated from **Spiced Academy*
 
 ![Alt Text](https://github.com/VanessaSchwab1906/VanessaSchwab1906/blob/main/1FA.gif)
 
-As a former curator, I'll always have a soft spot for interactive exhibitions featuring innovative tech 🖼 👩🏼‍💻💥
+As a former curator, I've always had a passion for integrating innovative tech solutions into exhibitions. I quickly realized the potential to create even more captivating and accessible experiences for visitors by leveraging interactive technologies. Motivated by this vision, I made the decision to expand my skill set and delve into the world of web development, where I could combine my expertise in curation with my fascination for technology. 🖼 👩🏼‍💻💥
 
 
 
